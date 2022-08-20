@@ -1,0 +1,369 @@
+[INFO ] 2022-08-11 15:13:16.200 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-11 15:13:29.143 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-11 15:13:29.760 [main] DatDrivenFramework - Email address entered successfully.
+[INFO ] 2022-08-11 15:13:30.018 [main] DatDrivenFramework - Clicked on Create an account button successfully.
+[INFO ] 2022-08-11 15:48:33.393 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-11 15:48:47.655 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-11 15:48:48.063 [main] DatDrivenFramework - Email address entered successfully.
+[INFO ] 2022-08-11 15:48:48.311 [main] DatDrivenFramework - Clicked on Create an account button successfully.
+[INFO ] 2022-08-11 15:48:55.062 [main] DatDrivenFramework - Entered all required details for Registration.
+[INFO ] 2022-08-11 15:59:55.138 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-11 16:00:03.079 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-11 16:00:03.508 [main] DatDrivenFramework - Email address entered successfully.
+[INFO ] 2022-08-11 16:00:03.765 [main] DatDrivenFramework - Clicked on Create an account button successfully.
+[INFO ] 2022-08-11 16:00:09.715 [main] DatDrivenFramework - Entered all required details for Registration.
+[INFO ] 2022-08-11 16:00:13.841 [main] DatDrivenFramework - Registration Success
+[INFO ] 2022-08-12 15:57:09.712 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-12 15:58:06.223 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-12 15:58:13.575 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-12 16:14:38.419 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-12 16:14:46.359 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-12 16:17:23.128 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-12 16:17:35.072 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-12 16:26:26.493 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-12 16:26:47.276 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-12 16:27:11.603 [main] DatDrivenFramework - Verify login: Failed
+[INFO ] 2022-08-12 16:52:14.241 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-12 16:52:19.418 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-12 16:52:28.362 [main] DatDrivenFramework - Verify login: Failed
+[INFO ] 2022-08-13 14:10:17.047 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:12:28.573 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:13:35.983 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:13:41.408 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-13 14:13:46.712 [main] DatDrivenFramework - Verify login: Success
+[INFO ] 2022-08-13 14:14:54.137 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:15:00.881 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-13 14:15:07.121 [main] DatDrivenFramework - Verify login: Failed
+[INFO ] 2022-08-13 14:37:31.170 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:40:33.992 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:41:26.967 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:43:38.040 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 14:43:47.058 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-13 14:43:51.342 [main] DatDrivenFramework - Verify login: Success
+[INFO ] 2022-08-13 14:43:58.512 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-13 14:44:03.852 [main] DatDrivenFramework - Verify login: Success
+[INFO ] 2022-08-13 15:20:27.530 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-13 15:20:32.849 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-13 15:20:45.577 [main] DatDrivenFramework - Verify Search product TC: Success
+[INFO ] 2022-08-14 10:41:09.291 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 10:41:09.332 [main] DatDrivenFramework - ************* Test Case Buy Product Started **************
+[INFO ] 2022-08-14 10:41:17.950 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-14 10:41:23.588 [main] DatDrivenFramework - Clicked on Login button
+[INFO ] 2022-08-14 10:41:29.866 [main] DatDrivenFramework - Clicked on Search button
+[INFO ] 2022-08-14 10:42:41.457 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 10:42:41.498 [main] DatDrivenFramework - ************* Test Case Buy Product Started **************
+[INFO ] 2022-08-14 10:42:48.614 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-14 10:42:52.757 [main] DatDrivenFramework - Clicked on Login button
+[INFO ] 2022-08-14 10:42:59.781 [main] DatDrivenFramework - Clicked on Search button
+[INFO ] 2022-08-14 10:43:12.503 [main] DatDrivenFramework - Clicked on More link
+[INFO ] 2022-08-14 10:43:25.138 [main] DatDrivenFramework - Clicked on Order Add product proceed to checkout button
+[INFO ] 2022-08-14 10:43:30.513 [main] DatDrivenFramework - Clicked on Order Summary proceed to checkout button
+[INFO ] 2022-08-14 10:46:08.488 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 10:46:08.528 [main] DatDrivenFramework - ************* Test Case Buy Product Started **************
+[INFO ] 2022-08-14 10:46:13.707 [main] DatDrivenFramework - Clicked on SignIn link
+[INFO ] 2022-08-14 10:46:17.438 [main] DatDrivenFramework - Clicked on Login button
+[INFO ] 2022-08-14 10:46:23.437 [main] DatDrivenFramework - Clicked on Search button
+[INFO ] 2022-08-14 10:46:36.858 [main] DatDrivenFramework - Clicked on More link
+[INFO ] 2022-08-14 10:46:51.880 [main] DatDrivenFramework - Clicked on Order Add product proceed to checkout button
+[INFO ] 2022-08-14 10:46:59.330 [main] DatDrivenFramework - Clicked on Order Summary proceed to checkout button
+[INFO ] 2022-08-14 10:58:36.553 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 10:58:36.586 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 10:58:42.566 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 10:58:46.047 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 10:58:46.193 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 10:58:51.247 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 10:59:04.712 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-14 10:59:08.943 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-14 10:59:09.192 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-14 10:59:09.309 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-14 10:59:15.928 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-14 10:59:20.646 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-14 11:01:43.427 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 11:01:43.457 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 11:01:48.196 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 11:01:51.040 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 11:01:51.220 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 11:01:56.594 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 11:02:56.249 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 11:02:56.277 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 11:03:03.558 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 11:03:07.388 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 11:03:07.539 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 11:03:13.508 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 11:04:12.675 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 11:04:12.703 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 11:04:26.652 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 11:04:29.705 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 11:04:29.843 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 11:04:35.474 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 11:04:54.368 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-14 11:04:58.682 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-14 11:04:58.917 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-14 11:04:59.040 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-14 11:05:06.160 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-14 11:05:09.758 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-14 11:05:12.594 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-14 11:05:12.702 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-14 11:05:18.145 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-14 11:05:18.155 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-14 11:10:10.929 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 11:10:10.954 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 11:10:17.875 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 11:10:22.480 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 11:10:22.626 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 11:10:28.540 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 11:10:40.601 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-14 11:10:44.820 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-14 11:10:45.077 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-14 11:10:45.207 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-14 11:10:51.461 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-14 11:10:55.909 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-14 11:10:58.937 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-14 11:10:59.071 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-14 11:11:02.785 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-14 11:11:02.799 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-14 11:11:07.404 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-14 11:11:12.484 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-14 11:24:28.171 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 11:24:28.199 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 11:24:34.545 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 11:24:39.622 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 11:24:39.761 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 11:24:45.178 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 11:25:46.115 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 11:25:46.146 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 11:25:53.680 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 11:26:04.576 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 11:26:04.806 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 11:26:12.051 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 11:26:26.316 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-14 11:26:30.503 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-14 11:26:30.727 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-14 11:26:30.844 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-14 11:26:38.128 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-14 11:26:41.136 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-14 11:26:43.564 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-14 11:26:43.679 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-14 11:26:47.159 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-14 11:26:47.165 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-14 11:26:49.007 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-14 11:26:57.087 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-14 11:26:57.136 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-14 11:27:05.148 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-14 11:48:12.841 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-14 11:48:12.875 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-14 11:48:24.380 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-14 11:48:28.494 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-14 11:48:28.686 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-14 11:48:34.129 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-14 11:48:43.149 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-14 11:48:47.369 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-14 11:48:47.629 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-14 11:48:47.787 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-14 11:48:54.882 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-14 11:48:59.016 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-14 11:49:01.765 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-14 11:49:01.899 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-14 11:49:04.281 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-14 11:49:04.298 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-14 11:49:06.649 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-14 11:49:10.009 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-14 11:49:10.073 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-14 11:49:14.253 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 15:09:13.812 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-16 15:09:13.871 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 15:09:21.529 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-16 15:09:26.464 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-16 15:09:26.686 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-16 15:09:32.619 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-16 15:09:49.364 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-16 15:09:53.584 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-16 15:09:53.875 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-16 15:09:54.159 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-16 15:11:10.858 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-16 15:11:10.902 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 15:11:17.469 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-16 15:11:36.576 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-16 15:11:36.838 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-16 15:11:54.424 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-16 15:12:17.778 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-16 15:12:21.990 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-16 15:12:22.240 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-16 15:12:22.414 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-16 15:12:41.127 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-16 15:12:51.839 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-16 15:12:52.690 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-16 15:13:05.748 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-16 15:13:12.629 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-16 15:13:12.644 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-16 15:13:22.179 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-16 15:13:36.425 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-16 15:13:36.489 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-16 15:14:00.065 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 15:21:42.308 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-16 15:21:42.366 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 15:21:48.119 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-16 15:21:55.973 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-16 15:21:56.440 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-16 15:22:02.557 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-16 15:22:21.409 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-16 15:22:25.673 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-16 15:22:25.931 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-16 15:22:26.126 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-16 15:22:32.675 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-16 15:22:37.062 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-16 15:22:40.138 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-16 15:22:40.388 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-16 15:22:44.708 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-16 15:22:44.733 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-16 15:22:49.145 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-16 15:22:52.845 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-16 15:22:52.917 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-16 15:23:01.456 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 21:19:54.998 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-16 21:19:55.129 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 21:20:03.212 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-16 21:20:09.247 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-16 21:20:09.375 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-16 21:20:14.347 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-16 21:23:41.783 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-16 21:23:41.827 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 21:23:48.383 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-16 21:23:52.889 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-16 21:23:53.021 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-16 21:24:07.016 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-16 21:24:32.165 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-16 21:24:36.621 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-16 21:24:37.363 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-16 21:24:37.834 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-16 21:24:49.141 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-16 21:24:53.098 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-16 21:24:56.656 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-16 21:24:56.781 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-16 21:24:59.797 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-16 21:24:59.852 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-16 21:25:01.437 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-16 21:25:06.289 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-16 21:25:06.336 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-16 21:25:12.764 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 22:24:46.628 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-16 22:24:46.684 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 07:43:03.950 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-17 07:43:03.995 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 07:43:09.312 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-17 07:43:14.183 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-17 07:43:14.327 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-17 07:43:20.152 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-17 07:45:06.681 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-17 07:45:06.713 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 07:45:11.719 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-17 07:45:19.782 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-17 07:45:19.970 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-17 07:45:27.734 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-17 07:45:42.333 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-17 07:45:46.545 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-17 07:45:46.729 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-17 07:45:46.827 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-17 07:45:53.071 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-17 07:45:56.639 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-17 07:45:59.316 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-17 07:45:59.418 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-17 07:46:02.417 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-17 07:46:02.430 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-17 07:46:04.624 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-17 07:46:07.816 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-17 07:46:07.861 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-17 07:46:12.117 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-17 08:03:26.446 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-17 08:03:26.479 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 08:03:32.909 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-17 08:03:40.256 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-17 08:03:40.406 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-17 08:03:47.852 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-17 08:05:08.583 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-17 08:05:08.619 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 08:05:22.182 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-17 08:05:32.507 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-17 08:05:32.670 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-17 08:05:43.214 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-17 08:06:01.401 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-17 08:06:05.612 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-17 08:06:05.795 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-17 08:06:05.887 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-17 08:06:12.956 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-17 08:06:16.621 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-17 08:06:22.764 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-17 08:06:22.862 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-17 08:06:25.511 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-17 08:06:25.529 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-17 08:06:29.401 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-17 08:06:34.660 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-17 08:06:34.702 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-17 08:06:39.661 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-17 08:12:14.994 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-17 08:12:15.026 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 08:12:20.591 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-17 08:12:26.712 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-17 08:12:26.838 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-17 08:12:32.259 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-17 08:26:51.164 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-17 08:26:51.201 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 08:27:04.048 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-17 08:27:08.098 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-17 08:27:08.219 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-17 08:27:16.053 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-17 08:27:29.483 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-17 08:27:33.658 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-17 08:27:33.866 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-17 08:27:34.004 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-17 08:27:42.976 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-17 08:27:46.941 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-17 08:27:49.822 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-17 08:27:49.946 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-17 08:27:53.227 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-17 08:27:53.245 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-17 08:27:55.121 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-17 08:27:58.569 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-17 08:27:58.615 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-17 08:28:03.079 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-18 15:06:44.403 [main] DatDrivenFramework - Url opened
+[INFO ] 2022-08-18 15:06:44.510 [main] DatDrivenFramework - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-18 15:06:53.920 [main] DatDrivenFramework - User Email and Password entered.
+[INFO ] 2022-08-18 15:06:58.025 [main] DatDrivenFramework - Sign In link clicked
+[INFO ] 2022-08-18 15:06:58.297 [main] DatDrivenFramework - T-shirt entered in search box
+[INFO ] 2022-08-18 15:07:08.325 [main] DatDrivenFramework - clicked on search button
+[INFO ] 2022-08-18 15:07:26.688 [main] DatDrivenFramework - Clicked on more button
+[INFO ] 2022-08-18 15:07:31.030 [main] DatDrivenFramework - quantity 2 entereed
+[INFO ] 2022-08-18 15:07:31.285 [main] DatDrivenFramework - size M entered
+[INFO ] 2022-08-18 15:07:31.439 [main] DatDrivenFramework - Clicked on add to cart
+[INFO ] 2022-08-18 15:07:43.540 [main] DatDrivenFramework - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-18 15:07:50.580 [main] DatDrivenFramework - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-18 15:07:54.683 [main] DatDrivenFramework - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-18 15:07:54.857 [main] DatDrivenFramework - selecged term of service check box
+[INFO ] 2022-08-18 15:08:00.409 [main] DatDrivenFramework - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-18 15:08:00.450 [main] DatDrivenFramework - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-18 15:08:05.901 [main] DatDrivenFramework - Clicked on pay by cheque
+[INFO ] 2022-08-18 15:08:14.428 [main] DatDrivenFramework - Clicked on confirmed order
+[INFO ] 2022-08-18 15:08:14.526 [main] DatDrivenFramework - VerifyBuyProduct - Passed
+[INFO ] 2022-08-18 15:08:28.404 [main] DatDrivenFramework - ***************TestCase BuyProduct ends*****************
